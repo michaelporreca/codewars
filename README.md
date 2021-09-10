@@ -2,7 +2,7 @@
 
 This repo is dedicated to all my Codewars solutions. My codewars profile can be found [here](https://www.codewars.com/users/michaelporreca)!
 
-** Things to Note**
+**Things to Note**
 
 - Codewarriors are strongly encouraged to not use my solutions to Katas until they have completed the Kata on their own.
 
